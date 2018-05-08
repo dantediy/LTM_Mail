@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{E71712E6-C78D-4413-8917-4489A929C714}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuiMail", "GuiMail\GuiMail.csproj", "{9A92CAB3-892E-48C8-9D90-6CDECA3B7252}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mail", "Mail\Mail.csproj", "{7352B959-1077-46A0-9A4B-205F4E95BC87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E71712E6-C78D-4413-8917-4489A929C714}.Debug|x86.ActiveCfg = Debug|x86
+		{E71712E6-C78D-4413-8917-4489A929C714}.Debug|x86.Build.0 = Debug|x86
+		{E71712E6-C78D-4413-8917-4489A929C714}.Release|x86.ActiveCfg = Release|x86
+		{E71712E6-C78D-4413-8917-4489A929C714}.Release|x86.Build.0 = Release|x86
+		{9A92CAB3-892E-48C8-9D90-6CDECA3B7252}.Debug|x86.ActiveCfg = Debug|x86
+		{9A92CAB3-892E-48C8-9D90-6CDECA3B7252}.Debug|x86.Build.0 = Debug|x86
+		{9A92CAB3-892E-48C8-9D90-6CDECA3B7252}.Release|x86.ActiveCfg = Release|x86
+		{9A92CAB3-892E-48C8-9D90-6CDECA3B7252}.Release|x86.Build.0 = Release|x86
+		{7352B959-1077-46A0-9A4B-205F4E95BC87}.Debug|x86.ActiveCfg = Debug|x86
+		{7352B959-1077-46A0-9A4B-205F4E95BC87}.Debug|x86.Build.0 = Debug|x86
+		{7352B959-1077-46A0-9A4B-205F4E95BC87}.Release|x86.ActiveCfg = Release|x86
+		{7352B959-1077-46A0-9A4B-205F4E95BC87}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
